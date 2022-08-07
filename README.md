@@ -10,5 +10,5 @@ are highly appreciated.
 
 1. If the folder for the topic your are submitting is not created , then create a folder for it.
 2. Then add to the new or existing folders all the codes for that topic you want to add.
-3. Create a branch with name in this format "yourNameTopic" and create a PR for this branch.
+3. Create a branch with name in this format "**yourNameTopic**" and create a PR for this branch.
 3. Submit a PR with a message containing the  "**Topic Name**" and "**No of Code Files**" you have submitted for it.
