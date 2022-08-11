@@ -1,5 +1,5 @@
 //Note in this i have not given a extremely long array but the concept used to do this problem is what you should follow.
-class Infinit_Sorted_Array_Search
+class Infinite_Sorted_Array_Search
 {
     public static void main(String[] args)
     {
